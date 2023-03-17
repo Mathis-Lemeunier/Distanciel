@@ -41,7 +41,7 @@ h2{
 
 .left{
     display:flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 180px;
 }
 
@@ -112,3 +112,6 @@ border-radius: 10px;
     color: white;
 }
 
+.modifier{
+    color:#F8F07E ;
+}
